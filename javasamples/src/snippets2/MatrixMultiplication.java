@@ -61,7 +61,7 @@ public class MatrixMultiplication {
             for(int j=0;j<dimention;j++){
                 mat3[i][j]=0;
                 for(int k=0;k<dimention;k++){
-                    //TODO Loginc has to be changed
+                    //TODO Logic has to be changed
                     mat3[i][j]+=mat1[i][j]*mat2[j][i];
                 }
             }
