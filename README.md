@@ -128,15 +128,5 @@ SNIPPETS 11:<br>
 11.11 Write a simple JAVA Program to Create directory.<br>
 11.12 Write a simple JAVA Program to Determine if it's a File or Directory. <br>
 11.13 Write a simple JAVA Program to  Get Last modification time of a file or directory. <br>
+11.14 Write a simple JAVA Program using Mouse Event handlers.<br>
 
-SNIPPETS 12: <br>
-12.1 Write a simple JAVA Program using Mouse Event handlers.<br>
-12.2 Write a simple JAVA Program to demonstrate about keyevent handlers.<br>
-12.3 Write a simple JAVA Program using Frame Controls.<br>
-12.4 Write a simple JAVA Program to illustrate Flow layout.<br>
-12.5 Write a simple JAVA Program using Grid layout.<br>
-12.6 Write a simple JAVA Program to create Arithmetic Interface using AWT.<br>
-12.7 Write a simple JAVA Program using AWT Menu.<br>
-12.8 Write a simple JAVA Program using Applet Life-Cycle Methods.<br>
-12.9 Write a simple JAVA Program using BannerApplet.<br>
-				
