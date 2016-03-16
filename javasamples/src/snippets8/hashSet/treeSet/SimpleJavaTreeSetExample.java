@@ -1,12 +1,11 @@
 package snippets8.hashSet.treeSet;
 
-import java.util.SortedSet;
 import java.util.TreeSet;
 
 /**
  * Created by root on 14/3/16.
  */
-public class GetSubSetFromTreeSetExample {
+public class SimpleJavaTreeSetExample {
     public static void main(String[] args) {
         TreeSet ts=new TreeSet();
 
@@ -15,9 +14,11 @@ public class GetSubSetFromTreeSetExample {
         ts.add("3");
         ts.add("4");
         ts.add("5");
+        ts.add("6");
+        ts.add("7");
+        ts.add("8");
+        ts.add("9");
 
-        SortedSet sorted = ts.subSet("1","4");
-
-        System.out.println("sorted = " + sorted);
+        System.out.println("ts = " + ts);
     }
 }
