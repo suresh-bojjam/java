@@ -33,3 +33,18 @@ public class JavaList {
 		for(int val:list)System.out.print(val+" ");
 	}
 }
+
+/*
+https://www.hackerrank.com/challenges/java-list/problem
+i/p:
+5
+12 0 1 78 12
+2
+Insert
+5 23
+Delete
+0
+
+o/p:
+0 1 78 12 23
+*/
